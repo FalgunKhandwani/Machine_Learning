@@ -107,15 +107,3 @@ The main findings are:
 Future work may include developing predictive models for response time estimation and integrating geospatial analysis for location-based insights.
 
 ---
-
-## References
-- City Open Data Portal – Fire Department Response Records  
-- Python Documentation: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels  
-- Draper, N. R., & Smith, H. (1998). *Applied Regression Analysis.*
-
----
-
-### Author
-**Falgun Khandwani**  
-Machine Learning Assignment – 2025  
-Department of Computer Science
